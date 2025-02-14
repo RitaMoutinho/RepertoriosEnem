@@ -65,6 +65,18 @@ button:hover {
     font-style: italic; /* Estilo itálico para destaque */
 }
 
+@media (max-width: 600px) {
+    .player{
+        display: flex;
+        display: block;
+        text-align: center;
+        justify-content: center;
+
+    }
+#quote{
+  display: none;
+}
+}
 
 .animated-background {
     position: fixed;
