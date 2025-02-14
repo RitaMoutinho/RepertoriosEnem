@@ -65,7 +65,6 @@ button:hover {
     font-style: italic; /* Estilo itálico para destaque */
 }
 
-
 @media (max-width: 600px) {
     .player{
         display: flex;
