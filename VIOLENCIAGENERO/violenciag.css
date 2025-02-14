@@ -64,6 +64,7 @@ button:hover {
     margin-left: 120px; /* Espaçamento à direita */
     font-style: italic; /* Estilo itálico para destaque */
 }
+
 @media (max-width: 600px) {
     .player{
         display: flex;
